@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 👤 **Author1**
 
-- GitHub: [@gChimwemwe-127001](https://github.com/gChimwemwe-127001)
+- GitHub: [@Chimwemwe-127001](https://github.com/gChimwemwe-127001)
 - Twitter: [@chimwewme](https://twitter.com/chimwewme)
 
 ## 🤝 Contributing
