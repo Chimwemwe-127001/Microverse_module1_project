@@ -14,7 +14,7 @@ Additional description about the project and its features.
 
 ## Authors
 
-👤 **Author1**
+👤 **Chimwemwe Sinyinza**
 
 - GitHub: [@Chimwemwe-127001](https://github.com/Chimwemwe-127001)
 - Twitter: [@chimwewme](https://twitter.com/chimwewme)
